@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Argon343
+- 👋 Hi, I’m Nils
 - 👀 I’m interested in Modelica and on the functioning of system simulation software and visualisation. 
-- 🌱 I’m currently trying to change my direction to software development for system simulation and visualisation. I hold a bachelors degree in mechatronics engineering.
+- 🌱 I’m currently trying to change my direction to software development for system simulation and visualisation. I hold a Master degree in mechatronics engineering.
 - 💞️ I’m looking to collaborate on open source projects.
-- 📫 How to reach me: nils.waap@student.fh-kiel.de
+- 📫 How to reach me: nils.waap.22@gmail.de
                       +49 (0)1573 7925562         
                       
      I enjoy learning new things and would like to do rearch-like work.
